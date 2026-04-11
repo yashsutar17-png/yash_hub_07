@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Yash Sutar - AI Journey</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Welcome to My AI Journey</h1>
+    <nav>
+        <a href="home.html">Home</a>
+        <a href="places.html">Places</a>
+        <a href="culture.html">Culture</a>
+        <a href="travel-guide.html">Travel Guide</a>
+        <a href="food.html">Food</a>
+    </nav>
+</header>
+
+<section class="hero">
+    <h2>Yash Dhanaji Sutar</h2>
+    <p>Certified in Yuva AI for All</p>
+</section>
+
+<footer>
+    <p>© 2026 Yash Sutar</p>
+</footer>
+
+</body>
+</html>
